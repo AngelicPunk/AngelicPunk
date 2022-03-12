@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AngelicPunk
-- 👀 I’m interested in Web Design and Development, particularly love working with HTML and CSS
-- 🌱 I’m currently learning Intermediate Javascript and Front-End Development
+- 👀 I’m interested in Web Design and Development, particularly love working with HTML5, CSS3, ES6, Javascript, React.js, JSON, JSX, and git. 
+- 🌱 I’m currently learning Intermediate React.js and finishing up a certification for Front-End Engineer
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me 
 email is @angelicpunk9851@gmail.com
